@@ -6,5 +6,6 @@ Intructions
 - cd into repository
 - run $ node scrape.js
 
+##LEARNED HOW TO CRAWL WEBSITE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 ![screenshot](https://github.com/kennybatista/website-crawler/blob/master/screenshot.png)
