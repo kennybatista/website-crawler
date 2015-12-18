@@ -2,9 +2,9 @@
 ##100 day project challenge
 #Day 17
 
-Intructions
+Intructions:
 - cd into repository
-- run $ node scrape.js
+- run $node scrape.js
 
 ##LEARNED HOW TO CRAWL WEBSITES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
